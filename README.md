@@ -35,3 +35,18 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/BigThingsApp.git
+## Screenshots
+
+Here are some screenshots of the **BigThings iOS App**:
+
+### BigThingsListView
+
+![Big Things List](Screenshots/listview.png)
+
+### BigThingDetailView
+
+![Big Thing Details](Screenshots/map.png)
+
+### Add BigThingDetail
+
+![Big Thing Details](Screenshots/added.png)
